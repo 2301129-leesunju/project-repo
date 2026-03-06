@@ -27,8 +27,7 @@ Object Oriented 개념
     캡슐화 - 모듈화 , 정보 은닉
     다형성 - 메소드 오버라이딩 & 메소드 오버로딩
     
-Object Oriented Language
-  위의 추상화 , 상속 , 캡슐화 , 다형성 등을 더 자세하게 설명함.
+Object Oriented Language - 위의 추상화 , 상속 , 캡슐화 , 다형성 등을 더 자세하게 설명함.
   
   추상화 - 객체 모델링 중 필요한 부분만 적용시키는 기술
   
