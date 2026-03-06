@@ -8,6 +8,7 @@
     Object Oriented Language - Object 객체 , Inheritance 캡슐화 , Polymorphism 다형성 , Encapsulation 캡슐화 등의 장치 내장
       소프트웨어 재생산 부담 하락 -> 소프트웨어 생산성 향상
 Object Oriented 개념
+
     현실 세계의 물체를 객체라 생각하였을 때 
     모든 측면을 객체라 표현하지 않고
     중요한 측면 , 주목하고 싶은 측면만을 강조하여 객체로 표현
