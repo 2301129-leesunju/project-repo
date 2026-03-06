@@ -21,10 +21,12 @@ Object Oriented 개념
   
   Object Oriented 중요 개념 - Object 객체 , Class 클래스 , Inheritance 상속 , 
                               Encapsulation 캡슐화 , Polymorphism 다형성 , Message 메시지
+                              
     추상화 기술 - Object -> Class
     상속 - 재사용성
     캡슐화 - 모듈화 , 정보 은닉
     다형성 - 메소드 오버라이딩 & 메소드 오버로딩
+    
 Object Oriented Language
   위의 추상화 , 상속 , 캡슐화 , 다형성 등을 더 자세하게 설명함.
   
